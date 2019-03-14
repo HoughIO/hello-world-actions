@@ -5,8 +5,8 @@ LABEL "com.github.actions.description"="Write arguments to the standard output"
 LABEL "com.github.actions.icon"="mic"
 LABEL "com.github.actions.color"="purple"
 
-LABEL "repository"="http://github.com/HoughIO/hello-world-actions"
-LABEL "homepage"="http://github.com/actions"
+LABEL "repository"="http://github.com/HoughIO/hello-world"
+LABEL "homepage"="http://github.com/hello-world-actions"
 LABEL "maintainer"="HoughIO <HoughIO@github.com>"
 
 ADD entrypoint.sh /entrypoint.sh
